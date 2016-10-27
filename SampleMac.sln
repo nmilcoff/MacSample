@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortableLibrary", "PortableLibrary\PortableLibrary.csproj", "{8053BAF9-0033-4838-8539-9283426979CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacLibrary", "MacLibrary\MacLibrary.csproj", "{04172E23-B5A8-4CF9-9B33-50D8D32D2A4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{8053BAF9-0033-4838-8539-9283426979CA}.Debug|x86.Build.0 = Debug|Any CPU
 		{8053BAF9-0033-4838-8539-9283426979CA}.Release|x86.ActiveCfg = Release|Any CPU
 		{8053BAF9-0033-4838-8539-9283426979CA}.Release|x86.Build.0 = Release|Any CPU
+		{04172E23-B5A8-4CF9-9B33-50D8D32D2A4C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04172E23-B5A8-4CF9-9B33-50D8D32D2A4C}.Debug|x86.Build.0 = Debug|Any CPU
+		{04172E23-B5A8-4CF9-9B33-50D8D32D2A4C}.Release|x86.ActiveCfg = Release|Any CPU
+		{04172E23-B5A8-4CF9-9B33-50D8D32D2A4C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
